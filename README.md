@@ -1,0 +1,4 @@
+# dipoleDemo
+```
+go build . && ./dipole
+```
